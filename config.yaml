@@ -1,0 +1,14 @@
+# 🕵️‍♀️ Financial Detective Configuration File 📁
+
+# Stocks to investigate
+stocks:
+  - AAPL
+  - GOOGL
+  - MSFT
+
+# Time range for our investigation
+start_date: '2024-01-01'
+end_date: '2024-08-29'
+
+# Report format (pdf or txt)
+report_format: 'pdf'

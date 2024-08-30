@@ -1,0 +1,7 @@
+numpy
+pandas
+matplotlib
+fpdf2
+yfinance
+PyPDF2
+requests
